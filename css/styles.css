@@ -1,9 +1,10 @@
    
-   body {background-color: #f4d742;}
+   
 
-   #container{
+   #cont1{
    	width: 980px;
    	margin:0px auto;
+   	background-color: #f1d5e1;
    	}
 
 
@@ -12,7 +13,10 @@
    height:300;
    cener;}
    #h1{color:blue; font-size:30;}
-	  
+	  #container {
+	  	background-color: #4da5a3;
+	  }
+
 	  #box1 {
 	  float:right; 
 	  height:300px;
