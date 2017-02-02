@@ -1,0 +1,46 @@
+   
+   body {background-color: #ffe6e6;}
+   img{width: 200;
+   height:300;
+   cener;}
+   
+	  .h1{font-family:Times; font-size:30; font-color:#cccccc;}
+		  
+		  
+	  #box1 {float:right; 
+	  height:300px;
+	  width: 300px;
+	  background-color: #4aaaa5;
+	  margin: 5px;
+	  border-radius: 15px;
+	  align-text: center;
+	  font-family: Arial;
+	  font-size: 15px;
+	  }
+	  
+	  
+	  #box2 {float:left;
+	  height:300px;
+	  width: 300px;
+	  background-color: #4aaaa5;
+	  margin: 5px;
+	  border-radius: 15px;
+	  align-text: center;
+	  font-family: Arial;
+	  font-size: 15px
+	  }
+   
+    #img{
+		height:100px;
+        width: 100px;
+	}
+		
+	.footer, push {
+		box-sizing:inherit;
+    }	 
+		
+
+
+   </body>
+
+</html>
